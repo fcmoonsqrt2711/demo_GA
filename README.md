@@ -2,7 +2,7 @@
 
 ## Clone the GA for Knapsack
 ```Shell
-git clone https://github.com/tuyen1601/knapsackGA.git
+git clone https://github.com/fcmoonsqrt2711/demo_GA.git
 ```
 
 ## Create Vitual Environment
